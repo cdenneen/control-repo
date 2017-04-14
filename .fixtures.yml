@@ -1,0 +1,4 @@
+fixtures:
+  symlinks:
+    profile: ../../../site/profile
+    role: ../../../site/role
