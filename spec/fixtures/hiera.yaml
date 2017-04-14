@@ -1,0 +1,13 @@
+---
+:backends:
+  - yaml
+  - eyaml
+:hierarchy:
+  - role/%{role}
+  - common
+:yaml:
+  :datadir: 'hieradata'
+:eyaml:
+  :datadir: 'hieradata'
+  :pkcs7_public_key: './keys/public_key.pkcs7.pem'
+  :pkcs7_private_key: './keys/private_key.pkcs7.pem'
