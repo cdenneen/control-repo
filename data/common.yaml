@@ -1,2 +1,7 @@
 ---
 message: "This node is using common data"
+forgemod1::param: 'env_default'
+forgemod2::hash:
+  env_hash: 'foo'
+forgemod2::hash2:
+  env_hash2: 'foo2'

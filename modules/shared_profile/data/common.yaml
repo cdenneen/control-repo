@@ -1,0 +1,13 @@
+---
+shared_profile::f1param: 'shared_param_override'
+shared_profile::f2param: 'shared_param_override'
+shared_profile::f2hash:
+  shared_hash: 'shared_key'
+shared_profile::f2array:
+  - 'shared_array_item1'
+  - 'shared_array_item2'
+shared_profile::f2hash2:
+  shared_hash2: 'shared_key'
+shared_profile::f2array2:
+  - 'shared_array2_item1'
+  - 'shared_array2_item2'

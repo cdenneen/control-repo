@@ -1,4 +1,6 @@
-forge "https://forge.puppet.com"
+forge "https://forgeapi.puppet.com"
+
+mod 'puppetlabs/stdlib'
 
 # Modules from the Puppet Forge
 # Versions should be updated to be the latest at the time you start

@@ -1,0 +1,13 @@
+---
+forgemod2::param: 'default_fm2_param'
+forgemod2::param2: 'default_fm2_param2'
+forgemod2::hash:
+  default_hash: 'default_hash_key'
+forgemod2::array:
+  - 'default_array1'
+  - 'default_array2'
+forgemod2::hash2:
+  default_hash2: 'default_hash2_key'
+forgemod2::array2:
+  - 'default_array2_item1'
+  - 'default_array2_item2'
